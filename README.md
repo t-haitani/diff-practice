@@ -1,4 +1,4 @@
 # diff-practice
 Practice for git diff
 third change
-for mergetool conflict @feature
+change in rebase-practice branch
