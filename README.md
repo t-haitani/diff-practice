@@ -1,4 +1,4 @@
 # diff-practice
 Practice for git diff
 third change
-change in rebase-practice branch
+change in rebase-practice branch (for conflict)
